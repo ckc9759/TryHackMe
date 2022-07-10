@@ -21,4 +21,9 @@ Day 1 : Inventory management !
 
 Day 2 : Arctic forum !
 
-*
+* Use disearch, find the password in the extension `/sysadmin` and use it to login as admin. 
+* The third answer pops up after logging in !
+
+---
+
+Day 3 : Evil Elf
