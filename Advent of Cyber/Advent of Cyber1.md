@@ -27,3 +27,10 @@ Day 2 : Arctic forum !
 ---
 
 Day 3 : Evil Elf
+
+* Find the packet 998 using ctrl G, then follow it's TCP stream to find the christmas.txt file. 
+* Using john the ripper we get password `rainbow`.
+
+---
+
+Continued...
